@@ -20,6 +20,4 @@ class App:
         # 矩形を描画
         pyxel.rect(self.x, 0, self.x + 7, 7, 9)
 
-        
-
 App()
